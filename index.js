@@ -1,1 +1,2 @@
-console.log("Ola mundão")
+let nome = "Fefe"
+console.log (nome)
